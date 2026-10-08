@@ -1,0 +1,2727 @@
+dot_product_O0  467486 267297.912230:    5050505 cpu_atom/cycles/P: 
+	          400741 fill_inputs+0xe4 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          4008d5 main+0xe1 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.916010:    5050505 cpu_core/cycles/P: 
+	          4006f2 fill_inputs+0x95 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          4008d5 main+0xe1 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.921260:    8860889 cpu_core/cycles/P: 
+	          400764 fill_inputs+0x107 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          4008d5 main+0xe1 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.928858:   12850332 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.937979:   15428950 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.947820:   16654811 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.951284:    5050505 cpu_atom/cycles/P: 
+	          4007d9 dot_product+0x5e (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.956062:    8408449 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.963637:   12984998 cpu_atom/cycles/P: 
+	          4007d9 dot_product+0x5e (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.973046:   16541619 cpu_atom/cycles/P: 
+	          4007cc dot_product+0x51 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.976167:    5050505 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.981289:    8602764 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.988776:   12665472 cpu_core/cycles/P: 
+	          4007cc dot_product+0x51 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267297.997855:   15352239 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.007654:   16560323 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.017731:   16952811 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.027788:   17001969 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.037883:   17065561 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.047985:   17081236 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.058091:   17087807 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.068197:   17087976 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.078303:   17086888 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.088402:   17082893 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.098507:   17090194 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.108611:   17087728 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.118716:   17095921 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.128826:   17093654 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.138933:   17086658 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.149048:   17092347 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.159159:   17078724 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.169268:   17075932 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.179372:   17074887 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.188985:   17073790 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.198635:   17753446 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.208184:   18412736 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.217771:   19289502 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.227252:   20017438 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.236722:   21038513 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.246200:   22058698 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.255710:   23219185 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.265136:   24293416 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.274536:   25649376 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.283947:   27057217 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.293358:   28655397 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.302683:   30198977 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.311977:   32003613 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.321307:   34143186 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.330626:   36236209 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.339870:   38434283 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.349436:   40940696 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.359399:   42643082 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.369471:   43094146 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.379566:   43196633 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.389669:   43223292 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.399767:   43232727 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.409873:   43251372 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.419984:   43237661 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.430773:   16963713 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.436846:   25951873 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.445130:   35438369 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.454682:   40892898 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.464625:   42539968 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.474680:   43043861 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.484772:   43208231 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.494875:   43238268 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.504981:   43253110 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.515087:   43250852 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.525188:   43247491 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.535295:   43255404 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.545398:   43244579 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.555503:   43251977 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.565606:   43253201 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.575709:   43256113 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.585815:   43261942 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.595925:   43260423 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.606031:   43244502 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.616136:   43239738 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.626238:   43235176 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.636339:   43239561 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.646442:   43250686 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.656549:   43250046 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.666651:   43239379 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.676755:   43239982 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.686857:   43239943 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.696967:   43248363 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.707066:   43234388 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.717171:   43249034 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.727277:   43252390 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.737379:   43244215 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.747485:   43254814 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.757591:   43256177 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.767694:   43252158 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.777799:   43252619 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.787902:   43255171 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.798009:   43246168 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.808115:   43241760 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.814080:   43230367 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.824191:   43266495 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.834296:   43249718 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.844400:   43250158 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.854503:   43251871 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.864610:   43265650 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.874712:   43250702 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.884818:   43263328 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.894926:   43258834 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.905026:   43248403 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.915131:   43262274 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.925235:   43255999 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.935338:   43257652 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.945445:   43262145 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.955547:   43250267 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.965656:   43267850 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.975761:   43255259 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.985863:   43253204 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267298.995970:   43256561 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.006090:   43258440 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.016179:   43189974 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.026280:   43236718 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.036385:   43253227 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.046493:   43254686 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.056597:   43246557 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.066701:   43246205 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.076805:   43248750 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.086905:   43248199 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.097012:   43254279 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.107117:   43251235 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.117219:   43257857 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.127325:   43263770 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.137461:   43263166 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.147550:   43191853 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.157651:   43240194 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.167752:   43252930 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.177855:   43258109 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.187963:   43263792 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.198072:   43258335 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.208175:   43250627 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.218279:   43254347 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.228382:   43250636 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.238487:   43257954 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.248591:   43256464 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.258692:   43252408 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.268800:   43264713 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.278901:   43247023 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.289009:   43260903 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.299116:   43261054 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.309221:   43258034 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.319324:   43248121 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.329425:   43249232 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.339532:   43270130 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.349637:   43265874 cpu_core/cycles/P: 
+	          4007d0 dot_product+0x55 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.359740:   43264240 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.369845:   43261985 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.379950:   43259243 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.390055:   43259980 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.400161:   43259082 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.410268:   43255345 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.420371:   43245476 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.430472:   43245347 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.440576:   43254941 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.450677:   43254199 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.460782:   43263489 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.470887:   43262188 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.480996:   43267406 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.491104:   43262310 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.501207:   43242114 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.511312:   43250313 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.521417:   43249055 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.531520:   43247835 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.541623:   43252028 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.551727:   43254809 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.561832:   43254838 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.571939:   43262038 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.582042:   43256603 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.592146:   43251594 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.602253:   43261228 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.612357:   43248332 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.622461:   43245924 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.632563:   43248739 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.642667:   43258631 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.652773:   43252607 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.662874:   43247270 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.672982:   43258559 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.683087:   43254950 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.693191:   43253419 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.703296:   43268274 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.713423:   43259303 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.723518:   43213358 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.733617:   43241353 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.743718:   43253735 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.753823:   43261722 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.763932:   43259806 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.774036:   43255282 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.784141:   43249021 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.794249:   43256064 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.804355:   43244293 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.814457:   43234671 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.824556:   43245499 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.834664:   43269890 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.844768:   43248118 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.854872:   43254652 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.864981:   43263778 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.875086:   43254366 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.885189:   43246241 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.895291:   43244372 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.905393:   43244742 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.915498:   43256772 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.925600:   43247176 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.935704:   43261477 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.945807:   43259239 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.955912:   43259797 cpu_core/cycles/P: 
+	ffffffff8ab4eb94 update_vdso_time_data+0x4 ([kernel.kallsyms])
+	ffffffff8ab4ee13 update_vsyscall+0xc3 ([kernel.kallsyms])
+	ffffffff8ab315a0 timekeeping_update_from_shadow+0x180 ([kernel.kallsyms])
+	ffffffff8ab34289 __timekeeping_advance+0x369 ([kernel.kallsyms])
+	ffffffff8ab357f3 update_wall_time+0x33 ([kernel.kallsyms])
+	ffffffff8ab48b0c tick_nohz_handler+0x13c ([kernel.kallsyms])
+	ffffffff8ab2ec38 __hrtimer_run_queues+0x118 ([kernel.kallsyms])
+	ffffffff8ab2faa7 hrtimer_interrupt+0x107 ([kernel.kallsyms])
+	ffffffff8a98a468 __sysvec_apic_timer_interrupt+0x58 ([kernel.kallsyms])
+	ffffffff8bdc2008 sysvec_apic_timer_interrupt+0x38 ([kernel.kallsyms])
+	ffffffff8a60160a asm_sysvec_apic_timer_interrupt+0x1a ([kernel.kallsyms])
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.966050:   43259826 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.976130:   43153034 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.986225:   43228889 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267299.996330:   43258781 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.006433:   43255187 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.016542:   43267419 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.026643:   43247924 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.036749:   43255945 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.046851:   43253404 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.056957:   43259120 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.067060:   43259013 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.077171:   43274790 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.087275:   43254046 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.097379:   43247703 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.107480:   43245181 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.117586:   43258910 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.127691:   43253328 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.137798:   43265659 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.147904:   43258003 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.158011:   43263397 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.168114:   43251568 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.178219:   43257023 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.188320:   43249009 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.198425:   43262394 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.208531:   43261509 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.218635:   43256670 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.228739:   43252584 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.238842:   43257829 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.248951:   43260408 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.259056:   43254764 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.269161:   43254815 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.279264:   43253224 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.289369:   43254339 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.299471:   43256841 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.314367:   43248586 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.324387:   42858853 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.335990:    5050505 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.341538:    8214846 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.348310:   11442250 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.357160:   14857973 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.366831:   16354494 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.376809:   16870010 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.386875:   17030303 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.398790:    5050505 cpu_atom/cycles/P: 
+	          4007de dot_product+0x63 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.402894:    7480698 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.408326:   11747334 cpu_atom/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.415369:   17312571 cpu_atom/cycles/P: 
+	          4007ae dot_product+0x33 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.424660:   23317152 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.433214:   26797580 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.442672:   29947846 cpu_atom/cycles/P: 
+	          4007d9 dot_product+0x5e (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.452731:   31281367 cpu_atom/cycles/P: 
+	          40079e dot_product+0x23 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.462689:   31728639 cpu_atom/cycles/P: 
+	          4007aa dot_product+0x2f (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.475950:    5050505 cpu_atom/cycles/P: 
+	          4007d9 dot_product+0x5e (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.480980:    8981976 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.486447:    5050505 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.492396:    8154594 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.500427:   11267072 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.508232:   13185527 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.517539:   15742092 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.527402:   16682111 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.537454:   17003741 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.547584:   17064008 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.557664:   17052893 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.567765:   17085255 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.577866:   17088641 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.587973:   17091387 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.598081:   17091932 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.622306:   43273984 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.633501:   17087052 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.643453:   16811352 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.668541:   43138859 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.679341:   16822673 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.689633:   17202477 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.699754:   17119541 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.709978:   17021604 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.719938:   16847129 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.730004:   17028761 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.742383:   19876137 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.753093:   18108979 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.763334:   17327440 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.773478:   17162151 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.783595:   17112707 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.793703:   17098047 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.803806:   17092709 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.813925:   17108822 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.824030:   17093460 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.834133:   17093001 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.844237:   17093977 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.854350:   17094600 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.861202:    5050505 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.866942:    7803134 cpu_atom/cycles/P: 
+	          4007aa dot_product+0x2f (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.874845:   11109762 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.885174:   17076671 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.896964:   16180646 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.908897:   16531921 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.919108:   16773308 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.925995:   17085279 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.936448:   17665525 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.941522:    5050505 cpu_atom/cycles/P: 
+	          4007de dot_product+0x63 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.951919:   16763115 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.962220:    7903598 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.969801:   13547151 cpu_atom/cycles/P: 
+	          4007a2 dot_product+0x27 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.982801:   17013972 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267300.992703:   15141769 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.000919:   17076034 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.013146:   14935048 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.022826:   15925231 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.026553:   17078758 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.037401:   16224748 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.046700:   15723258 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.056560:   16673818 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.066598:   16978482 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.076688:   17064120 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.086786:   17084019 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.096889:   17089513 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.106992:   17089460 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.120568:   15552374 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.130618:   16986254 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.140702:   17057317 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.150803:   17085273 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.160905:   17087296 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.171005:   17089189 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.181111:   17096853 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.191217:   17095588 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.201323:   17095983 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.211432:   17094726 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.222495:   17090087 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.232667:   17195598 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.242781:   17108343 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.252888:   17095154 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.262994:   17093005 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.273099:   17093347 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.283225:   17096309 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.293317:   17074612 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.303416:   17087191 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.313520:   17094368 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.323631:   17098837 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.333737:   17090810 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.343842:   17088377 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.356532:   17232921 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.367621:   14462655 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.376080:   14242584 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.385631:   16158427 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.396404:   16811125 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.406813:   17616911 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.417004:   17236527 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.427531:   17129767 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.445075:   17094881 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.454519:   15963276 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.464425:   16748456 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.474475:   16992216 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.484568:   17063159 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.494669:   17078986 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.504769:   17082982 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.514871:   17086480 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.524977:   17088249 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.532101:    5050505 cpu_atom/cycles/P: 
+	          4007d9 dot_product+0x5e (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.538361:    8702315 cpu_atom/cycles/P: 
+	          4007d9 dot_product+0x5e (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.545263:   17491375 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.553815:   15127681 cpu_atom/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.563325:   16857815 cpu_atom/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.573216:   17572406 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.583849:   17099861 cpu_core/cycles/P: 
+	          4007e3 dot_product+0x68 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.593839:   16009104 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.603451:   16248914 cpu_core/cycles/P: 
+	          4007b1 dot_product+0x36 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.613419:   16865274 cpu_core/cycles/P: 
+	          4007c8 dot_product+0x4d (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.623486:   17030752 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.633597:   17079746 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.640784:   12875874 cpu_atom/cycles/P: 
+	          4007de dot_product+0x63 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.650023:   16390697 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.660449:   17516945 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.672181:   20287655 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.682203:   17783746 cpu_atom/cycles/P: 
+	          4007cc dot_product+0x51 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.692527:   17888430 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.702421:   17566968 cpu_atom/cycles/P: 
+	          4007d9 dot_product+0x5e (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.712751:   17797647 cpu_atom/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.728281:   16471483 cpu_core/cycles/P: 
+	          4007d5 dot_product+0x5a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+
+dot_product_O0  467486 267301.738220:   16799266 cpu_core/cycles/P: 
+	          4007eb dot_product+0x70 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	          40096e main+0x17a (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+	    7fd780854680 __libc_start_call_main+0x80 (/usr/lib64/libc.so.6)
+	    7fd780854797 __libc_start_main@@GLIBC_2.34+0x87 (/usr/lib64/libc.so.6)
+	          400444 _start+0x24 (/home/eduard/projects/uni/syspr/lab2/build/dot_product_O0)
+

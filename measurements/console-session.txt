@@ -1,0 +1,318 @@
+eduard@fedora:~/projects/uni/syspr$ gcc --version | head -1
+lscpu | grep -E 'Model name|CPU\(s\)|Flags'
+gcc (GCC) 16.2.1 20260819 (Red Hat 16.2.1-2)
+CPU(s):                                  14
+On-line CPU(s) list:                     0-13
+Model name:                              Intel(R) Core(TM) Ultra 5 125U
+CPU(s) scaling MHz:                      37%
+Flags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb ssbd ibrs ibpb stibp ibrs_enhanced tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb intel_pt sha_ni xsaveopt xsavec xgetbv1 xsaves split_lock_detect user_shstk avx_vnni dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp hwp_pkg_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid bus_lock_detect movdiri movdir64b fsrm md_clear serialize arch_lbr ibt flush_l1d arch_capabilities
+NUMA node0 CPU(s):                       0-13
+eduard@fedora:~/projects/uni/syspr$ make all disassembly
+make: *** No rule to make target 'all'.  Stop.
+eduard@fedora:~/projects/uni/syspr$ cd lab2
+eduard@fedora:~/projects/uni/syspr/lab2$ make all disassembly
+mkdir -p build
+gcc -std=c17 -Wall -Wextra -Wpedantic -Werror -g -fno-omit-frame-pointer -O0 dot_product.c -o build/dot_product_O0
+gcc -std=c17 -Wall -Wextra -Wpedantic -Werror -g -fno-omit-frame-pointer -O3 -march=native -ffast-math dot_product.c -o build/dot_product_O3
+objdump -d -Mintel --disassemble=dot_product build/dot_product_O0 > build/dot_product_O0.asm
+objdump -d -Mintel --disassemble=dot_product build/dot_product_O3 > build/dot_product_O3.asm
+eduard@fedora:~/projects/uni/syspr/lab2$ ./build/dot_product_O0 1048576 1200
+elements=1048576 repetitions=1200 checksum=314110495.249049961567 elapsed=3.450448 s throughput=0.729 GFLOP/s
+eduard@fedora:~/projects/uni/syspr/lab2$ ./build/dot_product_O3 1048576 1200
+elements=1048576 repetitions=1200 checksum=314110495.249050855637 elapsed=1.391183 s throughput=1.809 GFLOP/s
+eduard@fedora:~/projects/uni/syspr/lab2$ scripts/measure-time.sh ./build/dot_product_O0 1048576 1200
+elements=1048576 repetitions=1200 checksum=314110495.249049961567 elapsed=3.238215 s throughput=0.777 GFLOP/s
+Saved /usr/bin/time output to results/dot_product_O0.time.txt
+eduard@fedora:~/projects/uni/syspr/lab2$ scripts/measure-time.sh ./build/dot_product_O3 1048576 1200
+elements=1048576 repetitions=1200 checksum=314110495.249050855637 elapsed=1.329262 s throughput=1.893 GFLOP/s
+Saved /usr/bin/time output to results/dot_product_O3.time.txt
+eduard@fedora:~/projects/uni/syspr/lab2$ cat results/dot_product_O0.time.txt
+cat results/dot_product_O3.time.txt
+        Command being timed: "./build/dot_product_O0 1048576 1200"
+        User time (seconds): 3.21
+        System time (seconds): 0.01
+        Percent of CPU this job got: 99%
+        Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.26
+        Average shared text size (kbytes): 0
+        Average unshared data size (kbytes): 0
+        Average stack size (kbytes): 0
+        Average total size (kbytes): 0
+        Maximum resident set size (kbytes): 17940
+        Average resident set size (kbytes): 0
+        Major (requiring I/O) page faults: 0
+        Minor (reclaiming a frame) page faults: 4183
+        Voluntary context switches: 5
+        Involuntary context switches: 98
+        Swaps: 0
+        File system inputs: 0
+        File system outputs: 0
+        Socket messages sent: 0
+        Socket messages received: 0
+        Signals delivered: 0
+        Page size (bytes): 4096
+        Exit status: 0
+        Command being timed: "./build/dot_product_O3 1048576 1200"
+        User time (seconds): 1.44
+        System time (seconds): 0.01
+        Percent of CPU this job got: 107%
+        Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.34
+        Average shared text size (kbytes): 0
+        Average unshared data size (kbytes): 0
+        Average stack size (kbytes): 0
+        Average total size (kbytes): 0
+        Maximum resident set size (kbytes): 17804
+        Average resident set size (kbytes): 0
+        Major (requiring I/O) page faults: 0
+        Minor (reclaiming a frame) page faults: 4180
+        Voluntary context switches: 5
+        Involuntary context switches: 44
+        Swaps: 0
+        File system inputs: 0
+        File system outputs: 0
+        Socket messages sent: 0
+        Socket messages received: 0
+        Signals delivered: 0
+        Page size (bytes): 4096
+        Exit status: 0
+eduard@fedora:~/projects/uni/syspr/lab2$ scripts/measure-perf.sh ./build/dot_product_O0 1048576 1200
+scripts/measure-perf.sh ./build/dot_product_O3 1048576 1200
+elements=1048576 repetitions=1200 checksum=314110495.249049961567 elapsed=3.729095 s throughput=0.675 GFLOP/s
+Saved perf stat output to results/dot_product_O0.perf-stat.txt
+elements=1048576 repetitions=1200 checksum=314110495.249050855637 elapsed=1.433494 s throughput=1.756 GFLOP/s
+Saved perf stat output to results/dot_product_O3.perf-stat.txt
+eduard@fedora:~/projects/uni/syspr/lab2$ cat results/dot_product_O0.perf-stat.txt
+cat results/dot_product_O3.perf-stat.txt
+# started on Thu Oct  8 12:53:30 2026
+
+
+ Performance counter stats for './build/dot_product_O0 1048576 1200':
+
+                52      context-switches                 #     13.9 cs/sec  cs_per_second     
+                14      cpu-migrations                   #      3.7 migrations/sec  migrations_per_second
+             4,161      page-faults                      #   1109.1 faults/sec  page_faults_per_second
+          3,751.66 msec task-clock                       #      nan CPUs  CPUs_utilized       
+        13,840,161      cpu_core/L1-dcache-load-misses/  #      nan %  l1d_miss_rate            (78.76%)
+         1,320,177      cpu_core/LLC-loads/              #     45.3 %  llc_miss_rate            (68.91%)
+            44,041      cpu_core/branch-misses/          #      0.0 %  branch_miss_rate         (59.11%)
+     1,284,733,261      cpu_core/branches/               #    342.4 M/sec  branch_frequency     (59.13%)
+    12,374,058,424      cpu_core/cpu-cycles/             #      3.3 GHz  cycles_frequency       (59.14%)
+    23,020,906,011      cpu_core/instructions/           #      1.9 instructions  insn_per_cycle  (49.28%)
+         1,696,019      cpu_atom/LLC-loads/              #     24.8 %  llc_miss_rate            (0.88%)
+         1,610,429      cpu_atom/branch-misses/          #      0.2 %  branch_miss_rate         (0.70%)
+       893,601,728      cpu_atom/branches/               #    238.2 M/sec  branch_frequency     (0.69%)
+     6,066,422,258      cpu_atom/cpu-cycles/             #      1.6 GHz  cycles_frequency       (0.73%)
+    10,258,313,401      cpu_atom/instructions/           #      1.7 instructions  insn_per_cycle  (0.72%)
+ TopdownL1 (cpu_core) #      0.8 %  tma_bad_speculation    
+                                                         #      1.9 %  tma_frontend_bound       (78.77%)
+                                                         #     63.3 %  tma_backend_bound      
+                                                         #     34.0 %  tma_retiring             (78.77%)
+ TopdownL1 (cpu_atom) #      0.8 %  tma_bad_speculation      (0.94%)
+                                                         #     68.3 %  tma_backend_bound        (1.05%)
+                                                         #      2.0 %  tma_frontend_bound       (1.03%)
+                                                         #     30.7 %  tma_retiring             (0.99%)
+
+       3.756932055 seconds time elapsed
+
+       3.676266000 seconds user
+       0.016726000 seconds sys
+
+
+# started on Thu Oct  8 12:53:34 2026
+
+
+ Performance counter stats for './build/dot_product_O3 1048576 1200':
+
+                23      context-switches                 #     15.8 cs/sec  cs_per_second     
+                11      cpu-migrations                   #      7.6 migrations/sec  migrations_per_second
+             4,161      page-faults                      #   2864.6 faults/sec  page_faults_per_second
+          1,452.57 msec task-clock                       #      nan CPUs  CPUs_utilized       
+       268,280,747      cpu_core/L1-dcache-load-misses/  #      nan %  l1d_miss_rate            (79.28%)
+        64,764,856      cpu_core/LLC-loads/              #     86.4 %  llc_miss_rate            (69.39%)
+            28,167      cpu_core/branch-misses/          #      0.0 %  branch_miss_rate         (59.55%)
+        86,828,417      cpu_core/branches/               #     59.8 M/sec  branch_frequency     (59.54%)
+     1,671,216,835      cpu_core/cpu-cycles/             #      1.2 GHz  cycles_frequency       (59.54%)
+       994,998,660      cpu_core/instructions/           #      0.6 instructions  insn_per_cycle  (49.57%)
+        32,755,987      cpu_atom/LLC-loads/              #     74.9 %  llc_miss_rate            (0.46%)
+           964,808      cpu_atom/branch-misses/          #      0.8 %  branch_miss_rate         (0.46%)
+       154,096,810      cpu_atom/branches/               #    106.1 M/sec  branch_frequency     (0.47%)
+     1,966,961,535      cpu_atom/cpu-cycles/             #      1.4 GHz  cycles_frequency       (0.47%)
+     1,549,757,046      cpu_atom/instructions/           #      0.8 instructions  insn_per_cycle  (0.47%)
+ TopdownL1 (cpu_core) #      1.5 %  tma_bad_speculation    
+                                                         #      3.8 %  tma_frontend_bound       (79.22%)
+                                                         #     82.2 %  tma_backend_bound      
+                                                         #     12.5 %  tma_retiring             (79.22%)
+ TopdownL1 (cpu_atom) #      3.1 %  tma_bad_speculation      (0.48%)
+                                                         #     71.2 %  tma_backend_bound        (0.55%)
+                                                         #      4.2 %  tma_frontend_bound       (0.55%)
+                                                         #     17.3 %  tma_retiring             (0.52%)
+
+       1.457762664 seconds time elapsed
+
+       1.396456000 seconds user
+       0.014473000 seconds sys
+
+
+eduard@fedora:~/projects/uni/syspr/lab2$ export FLAMEGRAPH_DIR="$HOME/tools/FlameGraph"
+eduard@fedora:~/projects/uni/syspr/lab2$ scripts/make-flamegraph.sh ./build/dot_product_O0 1048576 1200
+elements=1048576 repetitions=1200 checksum=314110495.249049961567 elapsed=3.814742 s throughput=0.660 GFLOP/s
+[ perf record: Woken up 12 times to write data ]
+[ perf record: Captured and wrote 3.164 MB results/dot_product_O0.perf.data (388 samples) ]
+Filtering for events of type: cpu_core/cycles/P
+Saved results/dot_product_O0.perf.data, perf report, folded stacks, and results/dot_product_O0.flamegraph.svg
+eduard@fedora:~/projects/uni/syspr/lab2$ scripts/make-flamegraph.sh ./build/dot_product_O3 1048576 1200
+elements=1048576 repetitions=1200 checksum=314110495.249050855637 elapsed=1.333081 s throughput=1.888 GFLOP/s
+[ perf record: Woken up 4 times to write data ]
+[ perf record: Captured and wrote 1.146 MB results/dot_product_O3.perf.data (137 samples) ]
+Filtering for events of type: cpu_core/cycles/P
+Saved results/dot_product_O3.perf.data, perf report, folded stacks, and results/dot_product_O3.flamegraph.svg
+eduard@fedora:~/projects/uni/syspr/lab2$ ls -lh results/*.perf.data results/*.perf-report.txt results/*.flamegraph.svg
+-rw-r--r--. 1 eduard eduard  15K Oct  8 12:56 results/dot_product_O0.flamegraph.svg
+-rw-------. 1 eduard eduard 3.2M Oct  8 12:56 results/dot_product_O0.perf.data
+-rw-r--r--. 1 eduard eduard 4.6K Oct  8 12:56 results/dot_product_O0.perf-report.txt
+-rw-r--r--. 1 eduard eduard  15K Oct  8 12:56 results/dot_product_O3.flamegraph.svg
+-rw-------. 1 eduard eduard 1.2M Oct  8 12:56 results/dot_product_O3.perf.data
+-rw-r--r--. 1 eduard eduard  12K Oct  8 12:56 results/dot_product_O3.perf-report.txt
+eduard@fedora:~/projects/uni/syspr/lab2$ less results/dot_product_O3.perf-report.txt
+eduard@fedora:~/projects/uni/syspr/lab2$ less results/dot_product_O3.perf-report.txt
+eduard@fedora:~/projects/uni/syspr/lab2$ less build/dot_product_O0.asm
+less build/dot_product_O3.asm
+eduard@fedora:~/projects/uni/syspr/lab2$ grep -E 'mulsd|addsd|mulpd|addpd|vfmadd|vmov' build/dot_product_O0.asm
+grep -E 'mulsd|addsd|mulpd|addpd|vfmadd|vmov' build/dot_product_O3.asm
+  4007cc:       f2 0f 59 c1             mulsd  xmm0,xmm1
+  4007d5:       f2 0f 58 c1             addsd  xmm0,xmm1
+  4007e7:       c5 fd 28 d8             vmovapd ymm3,ymm0
+  4007f2:       c5 fd 28 c8             vmovapd ymm1,ymm0
+  4007f6:       c5 fd 28 d0             vmovapd ymm2,ymm0
+  400840:       c5 fd 10 20             vmovupd ymm4,YMMWORD PTR [rax]
+  400844:       c5 fd 10 68 20          vmovupd ymm5,YMMWORD PTR [rax+0x20]
+  400851:       c5 fd 10 70 c0          vmovupd ymm6,YMMWORD PTR [rax-0x40]
+  400856:       c5 fd 10 78 e0          vmovupd ymm7,YMMWORD PTR [rax-0x20]
+  40085b:       c4 e2 dd b8 41 80       vfmadd231pd ymm0,ymm4,YMMWORD PTR [rcx-0x80]
+  400861:       c4 e2 d5 b8 51 a0       vfmadd231pd ymm2,ymm5,YMMWORD PTR [rcx-0x60]
+  400867:       c4 e2 cd b8 49 c0       vfmadd231pd ymm1,ymm6,YMMWORD PTR [rcx-0x40]
+  40086d:       c4 e2 c5 b8 59 e0       vfmadd231pd ymm3,ymm7,YMMWORD PTR [rcx-0x20]
+  400878:       c5 fd 58 c2             vaddpd ymm0,ymm0,ymm2
+  40087c:       c5 f5 58 cb             vaddpd ymm1,ymm1,ymm3
+  40088a:       c5 f5 58 c8             vaddpd ymm1,ymm1,ymm0
+  400894:       c5 f9 58 c1             vaddpd xmm0,xmm0,xmm1
+  40089c:       c5 f1 58 c8             vaddpd xmm1,xmm1,xmm0
+  4008cf:       c5 f9 10 17             vmovupd xmm2,XMMWORD PTR [rdi]
+  4008d3:       c4 e2 e9 b8 06          vfmadd231pd xmm0,xmm2,XMMWORD PTR [rsi]
+  4008de:       c5 f9 10 5e 10          vmovupd xmm3,XMMWORD PTR [rsi+0x10]
+  4008e3:       c4 e2 e1 b8 47 10       vfmadd231pd xmm0,xmm3,XMMWORD PTR [rdi+0x10]
+  4008ef:       c5 f9 10 57 20          vmovupd xmm2,XMMWORD PTR [rdi+0x20]
+  4008f4:       c4 e2 e9 b8 46 20       vfmadd231pd xmm0,xmm2,XMMWORD PTR [rsi+0x20]
+  400900:       c5 f9 10 5f 30          vmovupd xmm3,XMMWORD PTR [rdi+0x30]
+  400905:       c4 e2 e1 b8 46 30       vfmadd231pd xmm0,xmm3,XMMWORD PTR [rsi+0x30]
+  400911:       c5 f9 10 57 40          vmovupd xmm2,XMMWORD PTR [rdi+0x40]
+  400916:       c4 e2 e9 b8 46 40       vfmadd231pd xmm0,xmm2,XMMWORD PTR [rsi+0x40]
+  400922:       c5 f9 10 5f 50          vmovupd xmm3,XMMWORD PTR [rdi+0x50]
+  400927:       c4 e2 e1 b8 46 50       vfmadd231pd xmm0,xmm3,XMMWORD PTR [rsi+0x50]
+  40092f:       c5 f9 10 57 60          vmovupd xmm2,XMMWORD PTR [rdi+0x60]
+  400934:       c4 e2 e9 b8 46 60       vfmadd231pd xmm0,xmm2,XMMWORD PTR [rsi+0x60]
+  400944:       c5 f1 58 c8             vaddpd xmm1,xmm1,xmm0
+  40094d:       c4 c1 7b 10 1c c0       vmovsd xmm3,QWORD PTR [r8+rax*8]
+  400953:       c4 c2 e1 b9 0c c1       vfmadd231sd xmm1,xmm3,QWORD PTR [r9+rax*8]
+  400959:       c5 f9 28 c1             vmovapd xmm0,xmm1
+  400964:       c5 f9 28 c1             vmovapd xmm0,xmm1
+eduard@fedora:~/projects/uni/syspr/lab2$ scripts/measure-process-energy.sh ./build/dot_product_O0 1048576 1200
+scripts/measure-process-energy.sh ./build/dot_product_O3 1048576 1200
+Error:
+No supported events found.
+Access to performance monitoring and observability operations is limited.
+Enforced MAC policy settings (SELinux) can limit access to performance
+monitoring and observability operations. Inspect system audit records for
+more perf_event access control information and adjusting the policy.
+Consider adjusting /proc/sys/kernel/perf_event_paranoid setting to open
+access to performance monitoring and observability operations for processes
+without CAP_PERFMON, CAP_SYS_PTRACE or CAP_SYS_ADMIN Linux capability.
+More information can be found at 'Perf events and tool security' document:
+https://www.kernel.org/doc/html/latest/admin-guide/perf-security.html
+perf_event_paranoid setting is 1:
+  -1: Allow use of (almost) all events by all users
+      Ignore mlock limit after perf_event_mlock_kb without CAP_IPC_LOCK
+>= 0: Disallow raw and ftrace function tracepoint access
+>= 1: Disallow CPU event access
+>= 2: Disallow kernel profiling
+To make the adjusted perf_event_paranoid setting permanent preserve it
+in /etc/sysctl.conf (e.g. kernel.perf_event_paranoid = <setting>)
+Error:
+No supported events found.
+Access to performance monitoring and observability operations is limited.
+Enforced MAC policy settings (SELinux) can limit access to performance
+monitoring and observability operations. Inspect system audit records for
+more perf_event access control information and adjusting the policy.
+Consider adjusting /proc/sys/kernel/perf_event_paranoid setting to open
+access to performance monitoring and observability operations for processes
+without CAP_PERFMON, CAP_SYS_PTRACE or CAP_SYS_ADMIN Linux capability.
+More information can be found at 'Perf events and tool security' document:
+https://www.kernel.org/doc/html/latest/admin-guide/perf-security.html
+perf_event_paranoid setting is 1:
+  -1: Allow use of (almost) all events by all users
+      Ignore mlock limit after perf_event_mlock_kb without CAP_IPC_LOCK
+>= 0: Disallow raw and ftrace function tracepoint access
+>= 1: Disallow CPU event access
+>= 2: Disallow kernel profiling
+To make the adjusted perf_event_paranoid setting permanent preserve it
+in /etc/sysctl.conf (e.g. kernel.perf_event_paranoid = <setting>)
+eduard@fedora:~/projects/uni/syspr/lab2$ sudo perf stat -a -e power/energy-pkg/ -- sleep 1
+[sudo] password for eduard: 
+
+ Performance counter stats for 'system wide':
+
+              3.73 Joules power/energy-pkg/                                                     
+
+       1.001847452 seconds time elapsed
+
+eduard@fedora:~/projects/uni/syspr/lab2$ sudo perf stat -a -e power/energy-pkg/ \
+  -- ./build/dot_product_O0 1048576 1200
+
+sudo perf stat -a -e power/energy-pkg/ \
+  -- ./build/dot_product_O3 1048576 1200
+elements=1048576 repetitions=1200 checksum=314110495.249049961567 elapsed=3.407236 s throughput=0.739 GFLOP/s
+
+ Performance counter stats for 'system wide':
+
+             28.00 Joules power/energy-pkg/                                                     
+
+       3.429809829 seconds time elapsed
+
+elements=1048576 repetitions=1200 checksum=314110495.249050855637 elapsed=1.384094 s throughput=1.818 GFLOP/s
+
+ Performance counter stats for 'system wide':
+
+             12.25 Joules power/energy-pkg/                                                     
+
+       1.405517523 seconds time elapsed
+
+eduard@fedora:~/projects/uni/syspr/lab2$ scripts/measure-system-energy.sh ./build/dot_product_O0 1048576 1200
+scripts/measure-system-energy.sh ./build/dot_product_O3 1048576 1200
+elements=1048576 repetitions=1200 checksum=314110495.249049961567 elapsed=3.828912 s throughput=0.657 GFLOP/s
+Estimated system energy: 36.415492 J
+Saved battery system-power samples to results/dot_product_O0.system-power.csv
+elements=1048576 repetitions=1200 checksum=314110495.249050855637 elapsed=1.368950 s throughput=1.838 GFLOP/s
+Estimated system energy: 13.953206 J
+Saved battery system-power samples to results/dot_product_O3.system-power.csv
+eduard@fedora:~/projects/uni/syspr/lab2$ head results/dot_product_O0.system-power.csv
+head results/dot_product_O3.system-power.csv
+elapsed_seconds,power_watts
+0.002,9.309000
+0.114,9.309000
+0.225,9.309000
+0.336,9.309000
+0.446,9.309000
+0.557,9.309000
+0.667,9.309000
+0.777,9.309000
+0.888,9.309000
+elapsed_seconds,power_watts
+0.002,9.778000
+0.110,9.778000
+0.220,9.778000
+0.331,9.778000
+0.441,9.778000
+0.551,9.778000
+0.660,9.778000
+0.770,9.778000
+0.879,9.778000
+eduard@fedora:~/projects/uni/syspr/lab2$ 

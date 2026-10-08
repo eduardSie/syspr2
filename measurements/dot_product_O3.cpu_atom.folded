@@ -1,0 +1,2 @@
+dot_product_O3;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;dot_product 66961415
+dot_product_O3;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;fill_inputs 10101010

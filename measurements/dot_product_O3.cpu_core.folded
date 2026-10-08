@@ -1,0 +1,4 @@
+dot_product_O3;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;dot_product 1615927116
+dot_product_O3;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;dot_product;asm_sysvec_apic_timer_interrupt;sysvec_apic_timer_interrupt;irq_enter_rcu 15898265
+dot_product_O3;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;fill_inputs 5050505
+dot_product_O3;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;fill_inputs;asm_exc_page_fault;exc_page_fault;do_user_addr_fault;handle_mm_fault;__handle_mm_fault;do_anonymous_page;alloc_anon_folio;__mem_cgroup_charge;charge_memcg;try_charge_memcg 8404006

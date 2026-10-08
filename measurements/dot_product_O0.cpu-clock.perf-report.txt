@@ -1,0 +1,72 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 325  of event 'cpu-clock'
+# Event count (approx.): 3282828250
+#
+# Children      Self  Command         Shared Object      Symbol                             
+# ........  ........  ..............  .................  ...................................
+#
+   100.00%     0.00%  dot_product_O0  dot_product_O0     [.] _start
+            |
+            ---_start
+               __libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               |          
+                --99.69%--dot_product
+
+   100.00%     0.00%  dot_product_O0  libc.so.6          [.] __libc_start_main@@GLIBC_2.34
+            |
+            ---__libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               |          
+                --99.69%--dot_product
+
+   100.00%     0.00%  dot_product_O0  libc.so.6          [.] __libc_start_call_main
+            |
+            ---__libc_start_call_main
+               main
+               |          
+                --99.69%--dot_product
+
+   100.00%     0.00%  dot_product_O0  dot_product_O0     [.] main
+            |
+            ---main
+               |          
+                --99.69%--dot_product
+
+    99.69%    99.38%  dot_product_O0  dot_product_O0     [.] dot_product
+            |          
+             --99.38%--_start
+                       __libc_start_main@@GLIBC_2.34
+                       __libc_start_call_main
+                       main
+                       dot_product
+
+     0.31%     0.31%  dot_product_O0  [kernel.kallsyms]  [k] _raw_spin_unlock_irqrestore
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] asm_sysvec_apic_timer_interrupt
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] sysvec_apic_timer_interrupt
+     0.31%     0.31%  dot_product_O0  [kernel.kallsyms]  [k] __handle_mm_fault
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] __irq_exit_rcu
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] handle_softirqs
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] tmigr_handle_remote
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] tmigr_handle_remote_up
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] tmigr_handle_remote_cpu
+     0.31%     0.00%  dot_product_O0  dot_product_O0     [.] fill_inputs
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] asm_exc_page_fault
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] timer_expire_remote
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] __run_timers
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] exc_page_fault
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] call_timer_fn
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] do_user_addr_fault
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] handle_mm_fault
+     0.31%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] try_to_wake_up
+
+
+#
+# (Tip: To not record events from perf itself add --exclude-perf)
+#

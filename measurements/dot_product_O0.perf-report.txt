@@ -1,0 +1,128 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 36  of event 'cpu_atom/cycles/P'
+# Event count (approx.): 516106963
+#
+# Children      Self  Command         Shared Object   Symbol                           
+# ........  ........  ..............  ..............  .................................
+#
+   100.00%     0.00%  dot_product_O0  dot_product_O0  [.] _start
+            |
+            ---_start
+               __libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               |          
+               |--99.02%--dot_product
+               |          
+                --0.98%--fill_inputs
+
+   100.00%     0.00%  dot_product_O0  libc.so.6       [.] __libc_start_main@@GLIBC_2.34
+            |
+            ---__libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               |          
+               |--99.02%--dot_product
+               |          
+                --0.98%--fill_inputs
+
+   100.00%     0.00%  dot_product_O0  libc.so.6       [.] __libc_start_call_main
+            |
+            ---__libc_start_call_main
+               main
+               |          
+               |--99.02%--dot_product
+               |          
+                --0.98%--fill_inputs
+
+   100.00%     0.00%  dot_product_O0  dot_product_O0  [.] main
+            |
+            ---main
+               |          
+               |--99.02%--dot_product
+               |          
+                --0.98%--fill_inputs
+
+    99.02%    99.02%  dot_product_O0  dot_product_O0  [.] dot_product
+            |
+            ---_start
+               __libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               dot_product
+
+     0.98%     0.98%  dot_product_O0  dot_product_O0  [.] fill_inputs
+            |
+            ---_start
+               __libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               fill_inputs
+
+
+
+# Samples: 352  of event 'cpu_core/cycles/P'
+# Event count (approx.): 11173615925
+#
+# Children      Self  Command         Shared Object      Symbol                             
+# ........  ........  ..............  .................  ...................................
+#
+   100.00%     0.00%  dot_product_O0  dot_product_O0     [.] _start
+            |
+            ---_start
+               __libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               |          
+                --99.88%--dot_product
+
+   100.00%     0.00%  dot_product_O0  libc.so.6          [.] __libc_start_main@@GLIBC_2.34
+            |
+            ---__libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               |          
+                --99.88%--dot_product
+
+   100.00%     0.00%  dot_product_O0  libc.so.6          [.] __libc_start_call_main
+            |
+            ---__libc_start_call_main
+               main
+               |          
+                --99.88%--dot_product
+
+   100.00%     0.00%  dot_product_O0  dot_product_O0     [.] main
+            |
+            ---main
+               |          
+                --99.88%--dot_product
+
+    99.88%    99.49%  dot_product_O0  dot_product_O0     [.] dot_product
+            |          
+             --99.49%--_start
+                       __libc_start_main@@GLIBC_2.34
+                       __libc_start_call_main
+                       main
+                       dot_product
+
+     0.39%     0.39%  dot_product_O0  [kernel.kallsyms]  [k] update_vdso_time_data
+     0.39%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] asm_sysvec_apic_timer_interrupt
+     0.39%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] sysvec_apic_timer_interrupt
+     0.39%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] __sysvec_apic_timer_interrupt
+     0.39%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] hrtimer_interrupt
+     0.39%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] __hrtimer_run_queues
+     0.39%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] tick_nohz_handler
+     0.39%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] update_wall_time
+     0.39%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] __timekeeping_advance
+     0.39%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] timekeeping_update_from_shadow
+     0.39%     0.00%  dot_product_O0  [kernel.kallsyms]  [.] update_vsyscall
+     0.12%     0.12%  dot_product_O0  dot_product_O0     [.] fill_inputs
+
+
+#
+# (Tip: To set sample time separation other than 100ms with --sort time use --time-quantum)
+#

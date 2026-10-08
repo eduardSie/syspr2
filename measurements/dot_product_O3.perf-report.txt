@@ -1,0 +1,323 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 7  of event 'cpu_atom/cycles/P'
+# Event count (approx.): 77062425
+#
+# Children      Self  Command         Shared Object   Symbol                           
+# ........  ........  ..............  ..............  .................................
+#
+   100.00%    13.11%  dot_product_O3  dot_product_O3  [.] main
+            |          
+            |--86.89%--main
+            |          dot_product
+            |          
+             --13.11%--_start
+                       __libc_start_main@@GLIBC_2.34
+                       __libc_start_call_main
+                       main
+                       fill_inputs (inlined)
+
+   100.00%     0.00%  dot_product_O3  dot_product_O3  [.] _start
+            |
+            ---_start
+               __libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               |          
+               |--86.89%--dot_product
+               |          
+                --13.11%--fill_inputs (inlined)
+
+   100.00%     0.00%  dot_product_O3  libc.so.6       [.] __libc_start_main@@GLIBC_2.34
+            |
+            ---__libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               |          
+               |--86.89%--dot_product
+               |          
+                --13.11%--fill_inputs (inlined)
+
+   100.00%     0.00%  dot_product_O3  libc.so.6       [.] __libc_start_call_main
+            |
+            ---__libc_start_call_main
+               main
+               |          
+               |--86.89%--dot_product
+               |          
+                --13.11%--fill_inputs (inlined)
+
+    86.89%    86.89%  dot_product_O3  dot_product_O3  [.] dot_product
+            |
+            ---_start
+               __libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               dot_product
+
+    13.11%     0.00%  dot_product_O3  dot_product_O3  [.] fill_inputs (inlined)
+            |
+            ---fill_inputs (inlined)
+
+
+
+# Samples: 130  of event 'cpu_core/cycles/P'
+# Event count (approx.): 1645279892
+#
+# Children      Self  Command         Shared Object      Symbol                             
+# ........  ........  ..............  .................  ...................................
+#
+   100.00%     0.00%  dot_product_O3  dot_product_O3     [.] _start
+            |
+            ---_start
+               __libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               |          
+               |--99.18%--dot_product
+               |          |          
+               |           --0.97%--asm_sysvec_apic_timer_interrupt
+               |                     sysvec_apic_timer_interrupt
+               |                     irq_enter_rcu
+               |          
+                --0.82%--fill_inputs (inlined)
+                          |          
+                           --0.51%--asm_exc_page_fault
+                                     exc_page_fault
+                                     do_user_addr_fault
+                                     handle_mm_fault
+                                     __handle_mm_fault
+                                     do_anonymous_page
+                                     alloc_anon_folio
+                                     __mem_cgroup_charge
+                                     charge_memcg
+                                     try_charge_memcg
+
+   100.00%     0.00%  dot_product_O3  libc.so.6          [.] __libc_start_main@@GLIBC_2.34
+            |
+            ---__libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               |          
+               |--99.18%--dot_product
+               |          |          
+               |           --0.97%--asm_sysvec_apic_timer_interrupt
+               |                     sysvec_apic_timer_interrupt
+               |                     irq_enter_rcu
+               |          
+                --0.82%--fill_inputs (inlined)
+                          |          
+                           --0.51%--asm_exc_page_fault
+                                     exc_page_fault
+                                     do_user_addr_fault
+                                     handle_mm_fault
+                                     __handle_mm_fault
+                                     do_anonymous_page
+                                     alloc_anon_folio
+                                     __mem_cgroup_charge
+                                     charge_memcg
+                                     try_charge_memcg
+
+   100.00%     0.00%  dot_product_O3  libc.so.6          [.] __libc_start_call_main
+            |
+            ---__libc_start_call_main
+               main
+               |          
+               |--99.18%--dot_product
+               |          |          
+               |           --0.97%--asm_sysvec_apic_timer_interrupt
+               |                     sysvec_apic_timer_interrupt
+               |                     irq_enter_rcu
+               |          
+                --0.82%--fill_inputs (inlined)
+                          |          
+                           --0.51%--asm_exc_page_fault
+                                     exc_page_fault
+                                     do_user_addr_fault
+                                     handle_mm_fault
+                                     __handle_mm_fault
+                                     do_anonymous_page
+                                     alloc_anon_folio
+                                     __mem_cgroup_charge
+                                     charge_memcg
+                                     try_charge_memcg
+
+   100.00%     0.31%  dot_product_O3  dot_product_O3     [.] main
+            |          
+             --99.69%--main
+                       |          
+                       |--99.18%--dot_product
+                       |          |          
+                       |           --0.97%--asm_sysvec_apic_timer_interrupt
+                       |                     sysvec_apic_timer_interrupt
+                       |                     irq_enter_rcu
+                       |          
+                        --0.51%--fill_inputs (inlined)
+                                  asm_exc_page_fault
+                                  exc_page_fault
+                                  do_user_addr_fault
+                                  handle_mm_fault
+                                  __handle_mm_fault
+                                  do_anonymous_page
+                                  alloc_anon_folio
+                                  __mem_cgroup_charge
+                                  charge_memcg
+                                  try_charge_memcg
+
+    99.18%    98.22%  dot_product_O3  dot_product_O3     [.] dot_product
+            |          
+            |--98.22%--_start
+            |          __libc_start_main@@GLIBC_2.34
+            |          __libc_start_call_main
+            |          main
+            |          dot_product
+            |          
+             --0.97%--dot_product
+                       asm_sysvec_apic_timer_interrupt
+                       sysvec_apic_timer_interrupt
+                       irq_enter_rcu
+
+     0.97%     0.97%  dot_product_O3  [kernel.kallsyms]  [k] irq_enter_rcu
+            |
+            ---_start
+               __libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               dot_product
+               asm_sysvec_apic_timer_interrupt
+               sysvec_apic_timer_interrupt
+               irq_enter_rcu
+
+     0.97%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] asm_sysvec_apic_timer_interrupt
+            |
+            ---asm_sysvec_apic_timer_interrupt
+               sysvec_apic_timer_interrupt
+               irq_enter_rcu
+
+     0.97%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] sysvec_apic_timer_interrupt
+            |
+            ---sysvec_apic_timer_interrupt
+               irq_enter_rcu
+
+     0.82%     0.00%  dot_product_O3  dot_product_O3     [.] fill_inputs (inlined)
+            |
+            ---fill_inputs (inlined)
+               |          
+                --0.51%--asm_exc_page_fault
+                          exc_page_fault
+                          do_user_addr_fault
+                          handle_mm_fault
+                          __handle_mm_fault
+                          do_anonymous_page
+                          alloc_anon_folio
+                          __mem_cgroup_charge
+                          charge_memcg
+                          try_charge_memcg
+
+     0.51%     0.51%  dot_product_O3  [kernel.kallsyms]  [k] try_charge_memcg
+            |
+            ---_start
+               __libc_start_main@@GLIBC_2.34
+               __libc_start_call_main
+               main
+               fill_inputs (inlined)
+               asm_exc_page_fault
+               exc_page_fault
+               do_user_addr_fault
+               handle_mm_fault
+               __handle_mm_fault
+               do_anonymous_page
+               alloc_anon_folio
+               __mem_cgroup_charge
+               charge_memcg
+               try_charge_memcg
+
+     0.51%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] asm_exc_page_fault
+            |
+            ---asm_exc_page_fault
+               exc_page_fault
+               do_user_addr_fault
+               handle_mm_fault
+               __handle_mm_fault
+               do_anonymous_page
+               alloc_anon_folio
+               __mem_cgroup_charge
+               charge_memcg
+               try_charge_memcg
+
+     0.51%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] exc_page_fault
+            |
+            ---exc_page_fault
+               do_user_addr_fault
+               handle_mm_fault
+               __handle_mm_fault
+               do_anonymous_page
+               alloc_anon_folio
+               __mem_cgroup_charge
+               charge_memcg
+               try_charge_memcg
+
+     0.51%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] do_user_addr_fault
+            |
+            ---do_user_addr_fault
+               handle_mm_fault
+               __handle_mm_fault
+               do_anonymous_page
+               alloc_anon_folio
+               __mem_cgroup_charge
+               charge_memcg
+               try_charge_memcg
+
+     0.51%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] handle_mm_fault
+            |
+            ---handle_mm_fault
+               __handle_mm_fault
+               do_anonymous_page
+               alloc_anon_folio
+               __mem_cgroup_charge
+               charge_memcg
+               try_charge_memcg
+
+     0.51%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] __handle_mm_fault
+            |
+            ---__handle_mm_fault
+               do_anonymous_page
+               alloc_anon_folio
+               __mem_cgroup_charge
+               charge_memcg
+               try_charge_memcg
+
+     0.51%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] do_anonymous_page
+            |
+            ---do_anonymous_page
+               alloc_anon_folio
+               __mem_cgroup_charge
+               charge_memcg
+               try_charge_memcg
+
+     0.51%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] alloc_anon_folio
+            |
+            ---alloc_anon_folio
+               __mem_cgroup_charge
+               charge_memcg
+               try_charge_memcg
+
+     0.51%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] __mem_cgroup_charge
+            |
+            ---__mem_cgroup_charge
+               charge_memcg
+               try_charge_memcg
+
+     0.51%     0.00%  dot_product_O3  [kernel.kallsyms]  [.] charge_memcg
+            |
+            ---charge_memcg
+               try_charge_memcg
+
+
+
+#
+# (Tip: To show IPC for sampling periods use perf record -e '{cycles,instructions}:S' and then browse context)
+#
